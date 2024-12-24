@@ -49,27 +49,31 @@ Crear un archivo txt con nombre “connection_string.txt” y allí hay que pone
 
 ### Capturas:
 
-Puedes seleccionar las imágenes y moverlas con WASD, puedes cambiar las dimensiones con YUHJ
-
 ![Texto alternativo](images_rd/01.png)
 
-Ventana para agregar actividad
-
-Al agregarla:
+Puedes seleccionar las imágenes y moverlas con WASD, puedes cambiar las dimensiones con YUHJ
 
 ![Texto alternativo](images_rd/02.png)
 
-Después de re dimensionar y volver a posicionar:
+Ventana para agregar actividad
 
 ![Texto alternativo](images_rd/03.png)
 
-Hay tooltip
+Al agregarla:
 
 ![Texto alternativo](images_rd/04.png)
 
-Mostrar se ve así:
+Después de re dimensionar y volver a posicionar:
 
 ![Texto alternativo](images_rd/05.png)
+
+Hay tooltip
+
+![Texto alternativo](images_rd/06.png)
+
+Mostrar se ve así:
+
+![Texto alternativo](images_rd/07.png)
 
 ### Retrospectiva del sprint:
 Me gustó la idea de hacer un proyecto nuevo desde cero, aunque sencillo, práctico y acorde a la época del año, me gustó ya que pude reforzar algunas cosas de vb y bases de datos, además de nutrir mi imaginación. Estuvo bien que fuera sencillo por lo mismo que ya estamos más ocupados con el trabajo, pero se agradece la intención.
