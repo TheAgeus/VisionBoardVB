@@ -1,0 +1,24 @@
+[History]
+1=#P0#=mb	#P1#=read_txt	#P2#=Project1/DbWrapper/read_txt	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241224095337	#P7#=0	#P8#=17	.
+2=#P0#=mb	#P1#=ConnectDB	#P2#=Project1/DbWrapper/ConnectDB	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241224101345	#P7#=0	#P8#=10	.
+3=#P0#=mb	#P1#=cmdMostrar_Click	#P2#=Project1/VisionBoard/cmdMostrar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241220143925	#P7#=0	#P8#=12	.
+4=#P0#=mb	#P1#=Form_Click	#P2#=Project1/VisionBoard/Form_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241224104417	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=getCategoriaByIndex	#P2#=Project1/VisionBoard/getCategoriaByIndex	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220142351	#P7#=0	#P8#=8	.
+6=#P0#=mb	#P1#=loadCategorias	#P2#=Project1/VisionBoard/loadCategorias	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220141614	#P7#=0	#P8#=10	.
+7=#P0#=mb	#P1#=cmdAgregarActividad_Click	#P2#=Project1/frmAgregarActividad/cmdAgregarActividad_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241220135138	#P7#=0	#P8#=14	.
+8=#P0#=mb	#P1#=Form_Load	#P2#=Project1/VisionBoard/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241220135101	#P7#=0	#P8#=0	.
+9=#P0#=mb	#P1#=cmdBorrar_Click	#P2#=Project1/VisionBoard/cmdBorrar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241220135017	#P7#=0	#P8#=16	.
+10=#P0#=mb	#P1#=cmdGuardar_Click	#P2#=Project1/VisionBoard/cmdGuardar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241220121236	#P7#=0	#P8#=4	.
+11=#P0#=mb	#P1#=AddImageFromDB	#P2#=Project1/VisionBoard/AddImageFromDB	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220115218	#P7#=0	#P8#=10	.
+12=#P0#=mb	#P1#=loadPropositosFromDB	#P2#=Project1/VisionBoard/loadPropositosFromDB	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220111146	#P7#=0	#P8#=13	.
+13=#P0#=mb	#P1#=borrar	#P2#=Project1/AgeusImg/borrar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220111021	#P7#=0	#P8#=4	.
+14=#P0#=mb	#P1#=img_Click	#P2#=Project1/AgeusImg/img_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241220105636	#P7#=0	#P8#=3	.
+15=#P0#=mb	#P1#=AddImage	#P2#=Project1/VisionBoard/AddImage	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220103519	#P7#=0	#P8#=21	.
+16=#P0#=mb	#P1#=Form_KeyPress	#P2#=Project1/VisionBoard/Form_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241224104713	#P7#=0	#P8#=23	.
+17=#P0#=mb	#P1#=save	#P2#=Project1/AgeusImg/save	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220102105	#P7#=0	#P8#=-2	.
+18=#P0#=mb	#P1#=saveImgLocal	#P2#=Project1/AgeusImg/saveImgLocal	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220095807	#P7#=0	#P8#=5	.
+19=#P0#=mb	#P1#=existeTitle	#P2#=Project1/VisionBoard/existeTitle	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220093537	#P7#=0	#P8#=0	.
+20=#P0#=mb	#P1#=select100	#P2#=Project1/DbWrapper/select100	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241219165229	#P7#=0	#P8#=5	.
+21=#P0#=mb	#P1#=cmdAgregarActividad_Click	#P2#=Project1/VisionBoard/cmdAgregarActividad_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219163335	#P7#=0	#P8#=1	.
+22=#P0#=mb	#P1#=Form_Load	#P2#=Project1/frmAgregarActividad/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219162311	#P7#=0	#P8#=-1	.
+23=#P0#=mb	#P1#=cmdBuscarImagen_Click	#P2#=Project1/frmAgregarActividad/cmdBuscarImagen_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219162257	#P7#=0	#P8#=5	.
